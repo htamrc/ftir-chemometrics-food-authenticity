@@ -1,1 +1,12 @@
+# Dados (para não subir arquivos grandes ou sensíveis para o GitHub)
+data/raw/
+*.csv
+*.xlsx
 
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Arquivos do Jupyter (opcional, mas pode ser útil)
+.ipynb_checkpoints/
